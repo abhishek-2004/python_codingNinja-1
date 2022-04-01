@@ -1,4 +1,7 @@
-To find average of three numbers
+#To find average of three numbers
+
+from curses import A_ALTCHARSET
+
 
 a = int(input())
 b = int(input())
@@ -9,3 +12,5 @@ sum = a + b + c
 average = sum/3
 
 print(average)
+
+
