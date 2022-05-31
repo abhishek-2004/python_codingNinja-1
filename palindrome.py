@@ -2,6 +2,7 @@ def checkPalindrome(num):
 #Implement Your Code Here
 	pass
 		
+# comment was added
 n = int(input())
 rev = 0
 c = n
